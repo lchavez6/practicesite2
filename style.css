@@ -1,0 +1,20 @@
+body {
+  font-family: "Inter";
+  padding: 10px;
+}
+
+.nav-items {
+  display: inline;
+  margin-right: 20px;
+  font-size: 20px;
+}
+
+.nav-items a {
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+}
+
+p {
+  color: rgb(222, 101, 121);
+}
